@@ -1,6 +1,6 @@
 import sys
 
-sys.path.append("../")
+sys.path.append("/content/chimera")
 
 import argparse
 import os
